@@ -1,7 +1,7 @@
 # Ensuring Quality in Software Projects F22 elective
 
 > Semester 7, 4th study-year, Innopolis University.
-
+breaking
 ![Logo](https://user-images.githubusercontent.com/49106163/200147786-3e414c4a-d6ca-4240-b00e-1ef35fac6308.png)
 
 ![Python CI workflow](https://github.com/InnoQueue/Backend/actions/workflows/build.yml/badge.svg)
